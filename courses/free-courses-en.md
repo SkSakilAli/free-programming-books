@@ -215,11 +215,6 @@
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)
 * [Android App Development for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) - Bucky Roberts (thenewboston)
 * [Android App Development Tutorial for Beginners (2020) \| Complete Guides and Courses](https://www.youtube.com/playlist?list=PLwhVruPHD9rz2MwQuYSenQ0WK1IGP5rYM) - tutorialsEU
-* [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) (Udacity)
-* [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) (Udacity)
-* [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843) (Udacity)
-* [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836) (Udacity)
-* [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834) (Udacity)
 * [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) - Google Developers Training
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
